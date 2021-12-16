@@ -8,13 +8,6 @@ var netstat = osu.netstat
 var cpu = osu.cpu
 var mem = osu.mem
 
-function networkusage() {
-    netstat.inOut()
-        .then(info => {
-            console.log(info)
-        })
-}
-
 var chart = {
 
   offset:  3, 
