@@ -21,10 +21,7 @@ Please remember to change the interface in the config file to whatever your netw
 
 ## Donations & Contacts
 
-```
-Instagram: https://www.instagram.com/tur_lx/
-Discord: https://discord.gg/VfhrGySMTB
-
-Buy Me A Coffee: https://buymeacoffee.com/TurlxTheHuman
-Cashapp: https://cash.app/$Turlx
-```
+- Instagram: [https://instagram.com/tur_lx/](https://instagram.com/tur_lx/)
+- Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB)
+- Cashapp: [https://cash.app/$Turlx](https://cash.app/$Turlx)
+- Buy Me A Coffee: [https://buymeacoffee.com/TurlxTheHuman](https://buymeacoffee.com/TurlxTheHuman)
