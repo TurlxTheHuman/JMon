@@ -4,6 +4,7 @@ A resource monitor for linux that graphs CPU, Memory, and Network usage
 ```
 You need nodejs to run this program
 
+Please remember to change the interface in the config file to whatever your network interface is
 ```
 
 ## Dependencies:
